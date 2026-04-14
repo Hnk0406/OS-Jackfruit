@@ -7,7 +7,7 @@
 * Name: Hariom N Kini
 * SRN: PES2UG24CS672
 
-* Name: Atul Kandilya
+* Name: Atul Kandiyil
 * SRN: PES2UG24CS920
 
 ---
