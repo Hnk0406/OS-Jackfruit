@@ -1,4 +1,38 @@
 solved
+# Root filesystems (large, contain special files)
+rootfs-base/
+rootfs-alpha/
+rootfs-beta/
+
+# Compiled binaries
+boilerplate/engine
+boilerplate/cpu_hog
+boilerplate/memory_hog
+boilerplate/io_pulse
+
+# Kernel module build artifacts
+boilerplate/*.ko
+boilerplate/*.o
+boilerplate/*.mod
+boilerplate/*.mod.c
+boilerplate/*.mod.o
+boilerplate/.*.cmd
+boilerplate/Module.symvers
+boilerplate/modules.order
+boilerplate/.tmp_versions/
+
+# Zip/archive files
+*.zip
+*.tar.gz
+*.tar
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
 
 # Build artifacts (user-space)
 boilerplate/engine
