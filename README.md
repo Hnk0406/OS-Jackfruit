@@ -350,20 +350,7 @@ The `boilerplate/` directory contains:
 
 ---
 
-## 9. Submission Contents
-
-Your repository must include:
-
-* `engine.c`
-* `monitor.c`
-* `monitor_ioctl.h`
-* Workload programs
-* `Makefile`
-* `README.md`
-
----
-
-## 10. Demo Checklist (Screenshots)
+## 9. Demo Checklist (Screenshots)
 
 1. Multiple containers running
 
